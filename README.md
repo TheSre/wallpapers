@@ -1,1 +1,1 @@
-# Some wallpapers that I have collected
+# Some wallpapers that I've collected
