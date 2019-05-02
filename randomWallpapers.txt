@@ -1,0 +1,5 @@
+# This line is a comment
+# /home/sean/Pictures/Wallpapers/3gER9rs.jpg
+# /home/sean/Pictures/Wallpapers/4A56p2t.jpg
+# /home/sean/Pictures/Wallpapers/dKuFJ2v.jpg
+/home/sean/Pictures/Wallpapers/VazSL64.jpg
