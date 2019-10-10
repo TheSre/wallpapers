@@ -1,5 +1,13 @@
 # This line is a comment
-# /home/sean/Pictures/Wallpapers/3gER9rs.jpg
-# /home/sean/Pictures/Wallpapers/4A56p2t.jpg
-# /home/sean/Pictures/Wallpapers/dKuFJ2v.jpg
-/home/sean/Pictures/Wallpapers/VazSL64.jpg
+#/home/sean/Pictures/Wallpapers/3gER9rs.jpg
+# pinkish street 
+#/home/sean/Pictures/Wallpapers/4A56p2t.jpg
+#/home/sean/Pictures/Wallpapers/dKuFJ2v.jpg
+# purple water 
+#/home/sean/Pictures/Wallpapers/VazSL64.jpg
+# black & white print 
+#/home/sean/Pictures/Wallpapers/e0b909de16a77f52cf7fb7ba6d49d1fd.jpg
+# purple moon
+#/home/sean/Pictures/Wallpapers/dmPIoZv.png
+# Spirited Away flowers
+/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
