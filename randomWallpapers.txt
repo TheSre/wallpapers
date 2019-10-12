@@ -10,4 +10,10 @@
 # purple moon
 #/home/sean/Pictures/Wallpapers/dmPIoZv.png
 # Spirited Away flowers
-/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
+#/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
+# black w/ white circle
+#/home/sean/Pictures/Wallpapers/Jq1xlqM.png
+# purple glass balls
+/home/sean/Pictures/Wallpapers/KbOlrL9.jpg
+# pixel space
+#/home/sean/Pictures/Wallpapers/Pixel/xChy58V.png
