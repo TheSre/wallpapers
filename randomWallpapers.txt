@@ -14,6 +14,16 @@
 # black w/ white circle
 #/home/sean/Pictures/Wallpapers/Jq1xlqM.png
 # purple glass balls
-/home/sean/Pictures/Wallpapers/KbOlrL9.jpg
+#/home/sean/Pictures/Wallpapers/KbOlrL9.jpg
 # pixel space
 #/home/sean/Pictures/Wallpapers/Pixel/xChy58V.png
+# pixel beach
+#/home/sean/Pictures/Wallpapers/Pixel/2dEKdny.jpg
+# pixel moon & clouds
+#/home/sean/Pictures/Wallpapers/Pixel/4l4u6Jk.jpg
+# pixel swirl
+#/home/sean/Pictures/Wallpapers/Pixel/I90cVNt.png
+# pixel green gas cloud?
+#/home/sean/Pictures/Wallpapers/Pixel/P54r7Ic.jpg
+# pixel bridge
+/home/sean/Pictures/Wallpapers/Pixel/qpUR9eX.jpg
