@@ -1,7 +1,9 @@
 # This line is a comment
+# window to water
 #/home/sean/Pictures/Wallpapers/3gER9rs.jpg
 # pinkish street 
 #/home/sean/Pictures/Wallpapers/4A56p2t.jpg
+# busy city
 #/home/sean/Pictures/Wallpapers/dKuFJ2v.jpg
 # purple water 
 #/home/sean/Pictures/Wallpapers/VazSL64.jpg
@@ -15,6 +17,15 @@
 #/home/sean/Pictures/Wallpapers/Jq1xlqM.png
 # purple glass balls
 #/home/sean/Pictures/Wallpapers/KbOlrL9.jpg
+# brown sandy building
+/home/sean/Pictures/Wallpapers/Gp3AFVt.jpg
+# glowing curve
+#/home/sean/Pictures/Wallpapers/zgbfc8P.jpg
+# purplish temple
+#/home/sean/Pictures/Wallpapers/XzMBGPi.png
+# dark stars
+#/home/sean/Pictures/Wallpapers/3OR1RUl.png
+# Pixel -------
 # pixel space
 #/home/sean/Pictures/Wallpapers/Pixel/xChy58V.png
 # pixel beach
@@ -26,4 +37,13 @@
 # pixel green gas cloud?
 #/home/sean/Pictures/Wallpapers/Pixel/P54r7Ic.jpg
 # pixel bridge
-/home/sean/Pictures/Wallpapers/Pixel/qpUR9eX.jpg
+#/home/sean/Pictures/Wallpapers/Pixel/qpUR9eX.jpg
+# Prints -------
+# Hokusai
+# on horseback
+#/home/sean/Pictures/Wallpapers/Prints/the-fields-of-sekiya-by-the-sumida-river-1831.jpg
+# Hiroshige
+# Roger Dean ------
+# silver land bridge
+#/home/sean/Pictures/Wallpapers/RogerDean/5oBrNEF-roger-dean-wallpaper1.jpg
+
