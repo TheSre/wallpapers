@@ -1,4 +1,6 @@
 # This line is a comment
+# book w/ landscape in it
+#/home/sean/Pictures/Wallpapers/FukDN.jpg
 # window to water
 #/home/sean/Pictures/Wallpapers/3gER9rs.jpg
 # pinkish street 
@@ -11,14 +13,12 @@
 #/home/sean/Pictures/Wallpapers/e0b909de16a77f52cf7fb7ba6d49d1fd.jpg
 # purple moon
 #/home/sean/Pictures/Wallpapers/dmPIoZv.png
-# Spirited Away flowers
-#/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
 # black w/ white circle
 #/home/sean/Pictures/Wallpapers/Jq1xlqM.png
 # purple glass balls
 #/home/sean/Pictures/Wallpapers/KbOlrL9.jpg
 # brown sandy building
-/home/sean/Pictures/Wallpapers/Gp3AFVt.jpg
+#/home/sean/Pictures/Wallpapers/Gp3AFVt.jpg
 # glowing curve
 #/home/sean/Pictures/Wallpapers/zgbfc8P.jpg
 # purplish temple
@@ -46,4 +46,11 @@
 # Roger Dean ------
 # silver land bridge
 #/home/sean/Pictures/Wallpapers/RogerDean/5oBrNEF-roger-dean-wallpaper1.jpg
+# Spirited Away -------
+# flowers
+/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
+# starry seascape
+#/home/sean/Pictures/Wallpapers/SpiritedAway/LImjPQ8.jpg
+# sun & storm clouds
+#/home/sean/Pictures/Wallpapers/SpiritedAway/lAchTP4.jpg
 
