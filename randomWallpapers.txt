@@ -1,4 +1,24 @@
 # This line is a comment
+# pink tree & sky
+#/home/sean/Pictures/Wallpapers/VQaJKNO.png
+# sunny clouds
+#/home/sean/Pictures/Wallpapers/sSKFb9r.jpg
+# dark gate w/ water
+#/home/sean/Pictures/Wallpapers/1583806925689.jpg
+# moon over beach
+#/home/sean/Pictures/Wallpapers/1583198187659.jpg
+# ship on winding river
+#/home/sean/Pictures/Wallpapers/1583285150228.jpg
+# plants w/ blinds
+#/home/sean/Pictures/Wallpapers/1582915433246.jpg
+# Isle of the Dead
+#/home/sean/Pictures/Wallpapers/1582559295154.jpg
+# crane & pagoda
+#/home/sean/Pictures/Wallpapers/1579029060030.jpg
+# red forest 
+#/home/sean/Pictures/Wallpapers/1581221523556.jpg
+# village waterfall
+#/home/sean/Pictures/Wallpapers/1583085153007.jpg
 # book w/ landscape in it
 #/home/sean/Pictures/Wallpapers/FukDN.jpg
 # window to water
@@ -42,15 +62,25 @@
 # Hokusai
 # on horseback
 #/home/sean/Pictures/Wallpapers/Prints/the-fields-of-sekiya-by-the-sumida-river-1831.jpg
+# small hut on bay
+#/home/sean/Pictures/Wallpapers/Prints/lake-suwa-in-the-shinano-province.jpg
 # Hiroshige
 # Roger Dean ------
 # silver land bridge
 #/home/sean/Pictures/Wallpapers/RogerDean/5oBrNEF-roger-dean-wallpaper1.jpg
 # Spirited Away -------
 # flowers
-/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
+#/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
 # starry seascape
 #/home/sean/Pictures/Wallpapers/SpiritedAway/LImjPQ8.jpg
 # sun & storm clouds
 #/home/sean/Pictures/Wallpapers/SpiritedAway/lAchTP4.jpg
-
+# Mechanical Fractals ---------
+#/home/sean/Pictures/Wallpapers/MechanicalFractals/1583385509397.jpg
+#/home/sean/Pictures/Wallpapers/MechanicalFractals/1583385549075.jpg
+#/home/sean/Pictures/Wallpapers/MechanicalFractals/1583385655149.jpg
+#/home/sean/Pictures/Wallpapers/MechanicalFractals/1583385958593.jpg
+#/home/sean/Pictures/Wallpapers/MechanicalFractals/1583386023148.jpg
+#/home/sean/Pictures/Wallpapers/MechanicalFractals/1583386055107.jpg
+# Howl's Moving Castle ------------
+/home/sean/Pictures/Wallpapers/HowlsMovingCastle/wp1906378-howls-moving-castle-wallpapers.jpg
