@@ -1,4 +1,6 @@
 # This line is a comment
+# wild purple lights
+#/home/sean/Pictures/Wallpapers/1583960987670.jpg
 # pink tree & sky
 #/home/sean/Pictures/Wallpapers/VQaJKNO.png
 # sunny clouds
@@ -83,4 +85,23 @@
 #/home/sean/Pictures/Wallpapers/MechanicalFractals/1583386023148.jpg
 #/home/sean/Pictures/Wallpapers/MechanicalFractals/1583386055107.jpg
 # Howl's Moving Castle ------------
-/home/sean/Pictures/Wallpapers/HowlsMovingCastle/wp1906378-howls-moving-castle-wallpapers.jpg
+#/home/sean/Pictures/Wallpapers/HowlsMovingCastle/wp1906378-howls-moving-castle-wallpapers.jpg
+# Assorted Ghibli -----------------
+# nighttime stone sculpture
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584744852962.png
+# blue forest
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584744923895.png
+# green river banks
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584745089297.png
+# clouds with stone wall & flowers
+/home/sean/Pictures/Wallpapers/AssortedGhibli/1584804651592.png
+# clouds
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584804952855.png
+# tree with sun shining thru it
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584915321762.png
+# cliff face
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584745347303.png
+# park pond & flowers
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584804371778.png
+# vine close-up
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584918197238.png
