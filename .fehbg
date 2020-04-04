@@ -1,0 +1,3 @@
+#!/bin/sh
+feh --bg-fill --no-fehbg $(grep "^[^#]" /home/sean/Pictures/Wallpapers/\
+randomWallpapers.txt | shuf -n 1)
