@@ -48,6 +48,16 @@
 # dark stars
 #/home/sean/Pictures/Wallpapers/3OR1RUl.png
 # Pixel -------
+#tree in forest
+#/home/sean/Pictures/Wallpapers/Pixel/1584806578200.png
+# purple space
+#/home/sean/Pictures/Wallpapers/Pixel/1585337807175.png
+# cemetery?
+#/home/sean/Pictures/Wallpapers/Pixel/1584806829689.png
+# lake sunset
+#/home/sean/Pictures/Wallpapers/Pixel/1585337838893.png
+# purple skyline
+#/home/sean/Pictures/Wallpapers/Pixel/1585338159079.png
 # pixel space
 #/home/sean/Pictures/Wallpapers/Pixel/xChy58V.png
 # pixel beach
@@ -71,6 +81,8 @@
 # silver land bridge
 #/home/sean/Pictures/Wallpapers/RogerDean/5oBrNEF-roger-dean-wallpaper1.jpg
 # Spirited Away -------
+#tunnel
+#/home/sean/Pictures/Wallpapers/SpiritedAway/1584720396043.png
 # flowers
 #/home/sean/Pictures/Wallpapers/SpiritedAway/eT6zIfn.jpg
 # starry seascape
@@ -86,15 +98,17 @@
 #/home/sean/Pictures/Wallpapers/MechanicalFractals/1583386055107.jpg
 # Howl's Moving Castle ------------
 #/home/sean/Pictures/Wallpapers/HowlsMovingCastle/wp1906378-howls-moving-castle-wallpapers.jpg
+# flowers around small building
+#/home/sean/Pictures/Wallpapers/HowlsMovingCastle/1584721905010.png
 # Assorted Ghibli -----------------
 # nighttime stone sculpture
-#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584744852962.png
+/home/sean/Pictures/Wallpapers/AssortedGhibli/1584744852962.png
 # blue forest
 #/home/sean/Pictures/Wallpapers/AssortedGhibli/1584744923895.png
 # green river banks
 #/home/sean/Pictures/Wallpapers/AssortedGhibli/1584745089297.png
 # clouds with stone wall & flowers
-/home/sean/Pictures/Wallpapers/AssortedGhibli/1584804651592.png
+#/home/sean/Pictures/Wallpapers/AssortedGhibli/1584804651592.png
 # clouds
 #/home/sean/Pictures/Wallpapers/AssortedGhibli/1584804952855.png
 # tree with sun shining thru it
